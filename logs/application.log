@@ -1,0 +1,273 @@
+2026-10-24 15:19:40,429 - INFO - Student Added: ST999
+2026-10-24 15:19:40,429 - INFO - Student Updated: ST999
+2026-10-24 15:19:40,429 - INFO - Student Deleted: ST999
+2026-10-24 15:19:40,430 - INFO - Faculty Added: FC999
+2026-10-24 15:19:40,430 - INFO - Course Added: CT999
+2026-10-24 15:19:40,430 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:02:10,473 - INFO - Student Added: ST999
+2026-10-24 19:02:10,507 - INFO - Student Added: ST999
+2026-10-24 19:02:10,543 - INFO - Student Deleted: ST999
+2026-10-24 19:02:10,693 - INFO - Student Added: ST999
+2026-10-24 19:02:10,729 - INFO - Student Added: ST999
+2026-10-24 19:02:10,748 - INFO - Student Updated: ST999
+2026-10-24 19:03:54,288 - INFO - Faculty Added: FC999
+2026-10-24 19:03:54,288 - INFO - Faculty Deleted: FC999
+2026-10-24 19:03:54,288 - INFO - Faculty Added: FC999
+2026-10-24 19:03:54,288 - INFO - Faculty Deleted: FC999
+2026-10-24 19:03:54,289 - INFO - Faculty Added: FC999
+2026-10-24 19:03:54,289 - INFO - Faculty Deleted: FC999
+2026-10-24 19:03:54,289 - INFO - Faculty Added: FC999
+2026-10-24 19:03:54,289 - INFO - Faculty Updated: FC999
+2026-10-24 19:03:54,289 - INFO - Faculty Deleted: FC999
+2026-10-24 19:05:29,737 - INFO - Course Added: CT999
+2026-10-24 19:05:29,738 - INFO - Course Deleted: CT999
+2026-10-24 19:05:29,738 - INFO - Course Added: CT999
+2026-10-24 19:05:29,738 - INFO - Course Deleted: CT999
+2026-10-24 19:05:29,738 - INFO - Course Added: CT999
+2026-10-24 19:05:29,739 - INFO - Course Deleted: CT999
+2026-10-24 19:05:29,739 - INFO - Course Added: CT999
+2026-10-24 19:05:29,739 - INFO - Course Updated: CT999
+2026-10-24 19:05:29,739 - INFO - Course Deleted: CT999
+2026-10-24 19:07:00,304 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:07:00,304 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:07:00,305 - INFO - Enrollment Updated: ST999_CT998
+2026-10-24 19:08:27,668 - INFO - Student Added: ST999
+2026-10-24 19:08:27,695 - INFO - Student Added: ST999
+2026-10-24 19:08:27,705 - INFO - Student Deleted: ST999
+2026-10-24 19:08:27,720 - INFO - Student Added: ST999
+2026-10-24 19:08:27,740 - INFO - Student Added: ST999
+2026-10-24 19:08:27,752 - INFO - Student Updated: ST999
+2026-10-24 19:09:09,347 - INFO - Student Added: ST998
+2026-10-24 19:09:09,349 - WARNING - Duplicate student ID attempted: ST998
+2026-10-24 19:10:13,691 - WARNING - Invalid email provided for student: ST997
+2026-10-24 19:11:24,048 - INFO - Course Added: CT999
+2026-10-24 19:11:24,048 - INFO - Course Deleted: CT999
+2026-10-24 19:11:24,048 - INFO - Course Added: CT999
+2026-10-24 19:11:24,049 - INFO - Course Deleted: CT999
+2026-10-24 19:11:24,049 - INFO - Course Added: CT999
+2026-10-24 19:11:24,049 - INFO - Course Deleted: CT999
+2026-10-24 19:11:24,049 - INFO - Course Added: CT999
+2026-10-24 19:11:24,049 - INFO - Course Updated: CT999
+2026-10-24 19:11:24,050 - INFO - Course Deleted: CT999
+2026-10-24 19:14:03,239 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:14:03,239 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:14:03,240 - INFO - Enrollment Updated: ST999_CT998
+2026-10-24 19:15:54,628 - INFO - Course Added: CT999
+2026-10-24 19:15:54,628 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:15:54,629 - INFO - Course Added: CT999
+2026-10-24 19:15:54,629 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:15:54,629 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:15:54,629 - INFO - Course Added: CT999
+2026-10-24 19:15:54,629 - WARNING - Enrollment failed: Course not found: CS000
+2026-10-24 19:15:54,630 - INFO - Course Added: CT999
+2026-10-24 19:15:54,630 - WARNING - Enrollment failed: Student not found: ST000
+2026-10-24 19:15:54,630 - INFO - Course Added: CT999
+2026-10-24 19:15:54,630 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:15:54,631 - INFO - Course Added: CT999
+2026-10-24 19:15:54,631 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:15:54,631 - INFO - Enrollment Updated: ST999_CT999
+2026-10-24 19:16:21,321 - INFO - Student Added: ST999
+2026-10-24 19:16:21,321 - INFO - Student Updated: ST999
+2026-10-24 19:16:21,321 - INFO - Student Deleted: ST999
+2026-10-24 19:16:21,321 - INFO - Faculty Added: FC999
+2026-10-24 19:16:21,321 - INFO - Course Added: CT999
+2026-10-24 19:16:21,321 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:16:21,719 - INFO - Course Added: CT999
+2026-10-24 19:16:21,719 - INFO - Course Deleted: CT999
+2026-10-24 19:16:21,719 - INFO - Course Added: CT999
+2026-10-24 19:16:21,719 - INFO - Course Deleted: CT999
+2026-10-24 19:16:21,720 - INFO - Course Added: CT999
+2026-10-24 19:16:21,720 - INFO - Course Deleted: CT999
+2026-10-24 19:16:21,720 - INFO - Course Added: CT999
+2026-10-24 19:16:21,720 - INFO - Course Updated: CT999
+2026-10-24 19:16:21,720 - INFO - Course Deleted: CT999
+2026-10-24 19:16:21,720 - INFO - Course Added: CT999
+2026-10-24 19:16:21,720 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:16:21,720 - INFO - Course Added: CT999
+2026-10-24 19:16:21,721 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:16:21,721 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:16:21,721 - INFO - Course Added: CT999
+2026-10-24 19:16:21,721 - WARNING - Enrollment failed: Course not found: CS000
+2026-10-24 19:16:21,721 - INFO - Course Added: CT999
+2026-10-24 19:16:21,721 - WARNING - Enrollment failed: Student not found: ST000
+2026-10-24 19:16:21,721 - INFO - Course Added: CT999
+2026-10-24 19:16:21,722 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:16:21,722 - INFO - Course Added: CT999
+2026-10-24 19:16:21,722 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:16:21,722 - INFO - Enrollment Updated: ST999_CT999
+2026-10-24 19:16:21,722 - INFO - Faculty Added: FC999
+2026-10-24 19:16:21,722 - INFO - Faculty Deleted: FC999
+2026-10-24 19:16:21,722 - INFO - Faculty Added: FC999
+2026-10-24 19:16:21,722 - INFO - Faculty Deleted: FC999
+2026-10-24 19:16:21,723 - INFO - Faculty Added: FC999
+2026-10-24 19:16:21,723 - INFO - Faculty Deleted: FC999
+2026-10-24 19:16:21,723 - INFO - Faculty Added: FC999
+2026-10-24 19:16:21,723 - INFO - Faculty Updated: FC999
+2026-10-24 19:16:21,723 - INFO - Faculty Deleted: FC999
+2026-10-24 19:16:21,739 - INFO - Student Added: ST999
+2026-10-24 19:16:21,766 - INFO - Student Added: ST999
+2026-10-24 19:16:21,779 - INFO - Student Deleted: ST999
+2026-10-24 19:16:21,792 - INFO - Student Added: ST999
+2026-10-24 19:16:21,815 - INFO - Student Added: ST999
+2026-10-24 19:16:21,828 - INFO - Student Updated: ST999
+2026-10-24 19:18:07,935 - INFO - Student Added: ST999
+2026-10-24 19:18:07,968 - INFO - Student Added: ST999
+2026-10-24 19:18:07,979 - INFO - Student Deleted: ST999
+2026-10-24 19:18:07,995 - INFO - Student Added: ST999
+2026-10-24 19:18:08,021 - INFO - Student Added: ST999
+2026-10-24 19:18:08,030 - INFO - Student Updated: ST999
+2026-10-24 19:23:23,333 - INFO - Student Added: ST999
+2026-10-24 19:23:23,360 - INFO - Student Added: ST999
+2026-10-24 19:23:23,369 - INFO - Student Deleted: ST999
+2026-10-24 19:23:23,385 - INFO - Student Added: ST999
+2026-10-24 19:23:23,408 - INFO - Student Added: ST999
+2026-10-24 19:23:23,418 - INFO - Student Updated: ST999
+2026-10-24 19:25:15,551 - INFO - Student Added: ST999
+2026-10-24 19:25:15,586 - INFO - Student Added: ST999
+2026-10-24 19:25:15,599 - INFO - Student Deleted: ST999
+2026-10-24 19:25:15,616 - INFO - Student Added: ST999
+2026-10-24 19:25:15,640 - INFO - Student Added: ST999
+2026-10-24 19:25:15,649 - INFO - Student Updated: ST999
+2026-10-24 19:25:50,369 - INFO - Student Added: ST999
+2026-10-24 19:25:50,370 - INFO - Student Updated: ST999
+2026-10-24 19:25:50,370 - INFO - Student Deleted: ST999
+2026-10-24 19:25:50,370 - INFO - Faculty Added: FC999
+2026-10-24 19:25:50,370 - INFO - Course Added: CT999
+2026-10-24 19:25:50,370 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:25:50,751 - INFO - Course Added: CT999
+2026-10-24 19:25:50,751 - INFO - Course Deleted: CT999
+2026-10-24 19:25:50,752 - INFO - Course Added: CT999
+2026-10-24 19:25:50,752 - INFO - Course Deleted: CT999
+2026-10-24 19:25:50,752 - INFO - Course Added: CT999
+2026-10-24 19:25:50,752 - INFO - Course Deleted: CT999
+2026-10-24 19:25:50,753 - INFO - Course Added: CT999
+2026-10-24 19:25:50,753 - INFO - Course Updated: CT999
+2026-10-24 19:25:50,753 - INFO - Course Deleted: CT999
+2026-10-24 19:25:50,753 - INFO - Course Added: CT999
+2026-10-24 19:25:50,753 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:25:50,753 - INFO - Course Added: CT999
+2026-10-24 19:25:50,754 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:25:50,754 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-24 19:25:50,755 - INFO - Course Added: CT999
+2026-10-24 19:25:50,755 - WARNING - Enrollment failed: Course not found: CS000
+2026-10-24 19:25:50,756 - INFO - Course Added: CT999
+2026-10-24 19:25:50,756 - WARNING - Enrollment failed: Student not found: ST000
+2026-10-24 19:25:50,756 - INFO - Course Added: CT999
+2026-10-24 19:25:50,756 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:25:50,756 - INFO - Course Added: CT999
+2026-10-24 19:25:50,757 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-24 19:25:50,757 - INFO - Enrollment Updated: ST999_CT999
+2026-10-24 19:25:50,758 - INFO - Faculty Added: FC999
+2026-10-24 19:25:50,758 - INFO - Faculty Deleted: FC999
+2026-10-24 19:25:50,758 - INFO - Faculty Added: FC999
+2026-10-24 19:25:50,759 - INFO - Faculty Deleted: FC999
+2026-10-24 19:25:50,759 - INFO - Faculty Added: FC999
+2026-10-24 19:25:50,759 - INFO - Faculty Deleted: FC999
+2026-10-24 19:25:50,760 - INFO - Faculty Added: FC999
+2026-10-24 19:25:50,760 - INFO - Faculty Updated: FC999
+2026-10-24 19:25:50,760 - INFO - Faculty Deleted: FC999
+2026-10-24 19:25:50,783 - INFO - Student Added: ST999
+2026-10-24 19:25:50,807 - INFO - Student Added: ST999
+2026-10-24 19:25:50,820 - INFO - Student Deleted: ST999
+2026-10-24 19:25:50,840 - INFO - Student Added: ST999
+2026-10-24 19:25:50,865 - INFO - Student Added: ST999
+2026-10-24 19:25:50,875 - INFO - Student Updated: ST999
+2026-10-25 00:27:05,578 - INFO - Student Added: ST101
+2026-10-25 00:35:58,204 - INFO - Student Added: ST999
+2026-10-25 00:35:58,205 - INFO - Student Updated: ST999
+2026-10-25 00:35:58,205 - INFO - Student Deleted: ST999
+2026-10-25 00:35:58,205 - INFO - Faculty Added: FC999
+2026-10-25 00:35:58,205 - INFO - Course Added: CT999
+2026-10-25 00:35:58,205 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:35:58,599 - INFO - Course Added: CT999
+2026-10-25 00:35:58,599 - INFO - Course Deleted: CT999
+2026-10-25 00:35:58,600 - INFO - Course Added: CT999
+2026-10-25 00:35:58,600 - INFO - Course Deleted: CT999
+2026-10-25 00:35:58,600 - INFO - Course Added: CT999
+2026-10-25 00:35:58,600 - INFO - Course Deleted: CT999
+2026-10-25 00:35:58,600 - INFO - Course Added: CT999
+2026-10-25 00:35:58,600 - INFO - Course Updated: CT999
+2026-10-25 00:35:58,600 - INFO - Course Deleted: CT999
+2026-10-25 00:35:58,601 - INFO - Course Added: CT999
+2026-10-25 00:35:58,601 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:35:58,601 - INFO - Course Added: CT999
+2026-10-25 00:35:58,601 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:35:58,601 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-25 00:35:58,601 - INFO - Course Added: CT999
+2026-10-25 00:35:58,602 - WARNING - Enrollment failed: Course not found: CS000
+2026-10-25 00:35:58,602 - INFO - Course Added: CT999
+2026-10-25 00:35:58,602 - WARNING - Enrollment failed: Student not found: ST000
+2026-10-25 00:35:58,602 - INFO - Course Added: CT999
+2026-10-25 00:35:58,602 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:35:58,602 - INFO - Course Added: CT999
+2026-10-25 00:35:58,603 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:35:58,603 - INFO - Enrollment Updated: ST999_CT999
+2026-10-25 00:35:58,603 - INFO - Faculty Added: FC999
+2026-10-25 00:35:58,603 - INFO - Faculty Deleted: FC999
+2026-10-25 00:35:58,603 - INFO - Faculty Added: FC999
+2026-10-25 00:35:58,603 - INFO - Faculty Deleted: FC999
+2026-10-25 00:35:58,604 - INFO - Faculty Added: FC999
+2026-10-25 00:35:58,604 - INFO - Faculty Deleted: FC999
+2026-10-25 00:35:58,604 - INFO - Faculty Added: FC999
+2026-10-25 00:35:58,604 - INFO - Faculty Updated: FC999
+2026-10-25 00:35:58,604 - INFO - Faculty Deleted: FC999
+2026-10-25 00:35:58,616 - INFO - Student Added: ST999
+2026-10-25 00:35:58,635 - INFO - Student Added: ST999
+2026-10-25 00:35:58,646 - INFO - Student Deleted: ST999
+2026-10-25 00:35:58,660 - INFO - Student Added: ST999
+2026-10-25 00:35:58,679 - INFO - Student Added: ST999
+2026-10-25 00:35:58,690 - INFO - Student Updated: ST999
+2026-10-25 00:41:41,567 - INFO - Student Added: ST999
+2026-10-25 00:41:41,567 - INFO - Student Updated: ST999
+2026-10-25 00:41:41,567 - INFO - Student Deleted: ST999
+2026-10-25 00:41:41,567 - INFO - Faculty Added: FC999
+2026-10-25 00:41:41,567 - INFO - Course Added: CT999
+2026-10-25 00:41:41,567 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:41:42,005 - INFO - Course Added: CT999
+2026-10-25 00:41:42,005 - INFO - Course Deleted: CT999
+2026-10-25 00:41:42,006 - INFO - Course Added: CT999
+2026-10-25 00:41:42,006 - INFO - Course Deleted: CT999
+2026-10-25 00:41:42,006 - INFO - Course Added: CT999
+2026-10-25 00:41:42,006 - INFO - Course Deleted: CT999
+2026-10-25 00:41:42,006 - INFO - Course Added: CT999
+2026-10-25 00:41:42,006 - INFO - Course Updated: CT999
+2026-10-25 00:41:42,006 - INFO - Course Deleted: CT999
+2026-10-25 00:41:42,007 - INFO - Course Added: CT999
+2026-10-25 00:41:42,007 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:41:42,007 - INFO - Course Added: CT999
+2026-10-25 00:41:42,007 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:41:42,007 - INFO - Enrollment Deleted: ST999_CT999
+2026-10-25 00:41:42,007 - INFO - Course Added: CT999
+2026-10-25 00:41:42,008 - WARNING - Enrollment failed: Course not found: CS000
+2026-10-25 00:41:42,008 - INFO - Course Added: CT999
+2026-10-25 00:41:42,008 - WARNING - Enrollment failed: Student not found: ST000
+2026-10-25 00:41:42,009 - INFO - Course Added: CT999
+2026-10-25 00:41:42,009 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:41:42,009 - INFO - Course Added: CT999
+2026-10-25 00:41:42,009 - INFO - Enrollment Created: Student=ST999, Course=CT999
+2026-10-25 00:41:42,009 - INFO - Enrollment Updated: ST999_CT999
+2026-10-25 00:41:42,009 - INFO - Faculty Added: FC999
+2026-10-25 00:41:42,009 - INFO - Faculty Deleted: FC999
+2026-10-25 00:41:42,010 - INFO - Faculty Added: FC999
+2026-10-25 00:41:42,010 - INFO - Faculty Deleted: FC999
+2026-10-25 00:41:42,010 - INFO - Faculty Added: FC999
+2026-10-25 00:41:42,010 - INFO - Faculty Deleted: FC999
+2026-10-25 00:41:42,010 - INFO - Faculty Added: FC999
+2026-10-25 00:41:42,011 - INFO - Faculty Updated: FC999
+2026-10-25 00:41:42,011 - INFO - Faculty Deleted: FC999
+2026-10-25 00:41:42,021 - INFO - Student Added: ST999
+2026-10-25 00:41:42,041 - INFO - Student Added: ST999
+2026-10-25 00:41:42,051 - INFO - Student Deleted: ST999
+2026-10-25 00:41:42,062 - INFO - Student Added: ST999
+2026-10-25 00:41:42,082 - INFO - Student Added: ST999
+2026-10-25 00:41:42,092 - INFO - Student Updated: ST999

@@ -1,0 +1,25 @@
+{
+    "report_title": "CampusHub ERP - Student Report",
+    "generated_at": "2026-10-24T12:37:01.593431",
+    "total_students": 2,
+    "students": [
+        {
+            "student_id": "ST201",
+            "name": "Rahul",
+            "age": 21,
+            "email": "rahul@example.com",
+            "department": "Computer Science",
+            "created_at": "2026-10-24T12:37:01.592018",
+            "updated_at": "2026-10-24T12:37:01.592018"
+        },
+        {
+            "student_id": "ST202",
+            "name": "Priya",
+            "age": 20,
+            "email": "priya@example.com",
+            "department": "Information Technology",
+            "created_at": "2026-10-24T12:37:01.592338",
+            "updated_at": "2026-10-24T12:37:01.592338"
+        }
+    ]
+}

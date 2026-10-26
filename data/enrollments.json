@@ -1,0 +1,10 @@
+﻿[
+    {
+        "student_id": "ST101",
+        "course_code": "CS101"
+    },
+    {
+        "student_id": "ST101",
+        "course_code": "IT101"
+    }
+]

@@ -1,0 +1,16 @@
+﻿[
+    {
+        "faculty_id": "FC101",
+        "name": "Amit Sharma",
+        "age": 40,
+        "email": "amit@example.com",
+        "department": "Computer Science"
+    },
+    {
+        "faculty_id": "FC102",
+        "name": "Neha Patel",
+        "age": 35,
+        "email": "neha@example.com",
+        "department": "Information Technology"
+    }
+]
